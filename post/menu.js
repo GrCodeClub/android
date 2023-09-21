@@ -3,7 +3,7 @@ $(document).ready(function() {
     $('.sidebarMenuInner').append(menuLink);
     
     menuLink = ' <li><a href="https://grcodeclub.github.io/android">Android</a></li>';
-    $('.sidebarMenuInner').append(menuLinkAndroid);
+    $('.sidebarMenuInner').append(menuLink);
 
   });
   
