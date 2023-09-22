@@ -5,5 +5,8 @@ $(document).ready(function() {
     menuLink = ' <li><a href="https://grcodeclub.github.io/android">Android</a></li>';
     $('.sidebarMenuInner').append(menuLink);
 
+    menuLink = ' <li><a href="https://grcodeclub.github.io/post/version.html">Eκδόσεις</a></li>';
+    $('.sidebarMenuInner').append(menuLink);
+
   });
   
