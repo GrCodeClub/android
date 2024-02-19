@@ -11,5 +11,8 @@ $(document).ready(function() {
     menuLink = ' <li><a href="https://grcodeclub.github.io/android/versions">Eκδόσεις</a></li>';
     $('.sidebarMenuInner').append(menuLink);
 
+    menuLink = ' <li><a href="https://grcodeclub.github.io/android/more">Περισσότερα</a></li>';
+    $('.sidebarMenuInner').append(menuLink);
+
   });
   
